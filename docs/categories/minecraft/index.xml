@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Komugi no tech blog</title>
-    <link>https://tech.komugino.me/</link>
-    <description>Recent content on Komugi no tech blog</description>
+    <title>Minecraft on Komugi no tech blog</title>
+    <link>https://tech.komugino.me/categories/minecraft/</link>
+    <description>Recent content in Minecraft on Komugi no tech blog</description>
     <image>
       <title>Komugi no tech blog</title>
       <url>https://tech.komugino.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jul 2023 04:07:32 +0900</lastBuildDate><atom:link href="https://tech.komugino.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 04:07:32 +0900</lastBuildDate><atom:link href="https://tech.komugino.me/categories/minecraft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Note Block Studioで10 ticks以上にできない場合の対処法</title>
       <link>https://tech.komugino.me/posts/mc_note_block_studio_fast/</link>
@@ -27,21 +27,6 @@
 また、もう一回圧縮するとさらに早くすることもできます。ただ圧縮をしすぎるといくつかの音ブロックが消えるかもしれません。
 まとめ この備忘録は速い曲を音ブロック化するときはほぼ必須になると思います。
 一応言っておきますが、音ブロックをschematicとして出力する場合はマイクラの仕様上この操作をしないと元のスピードを再現できません。しかし、データパックとして出力する場合はこの限りではありません。データパックとして利用できる場合は元のticksのままデータパックとして出力して利用することをお勧めします。</description>
-    </item>
-    
-    <item>
-      <title>初めまして。</title>
-      <link>https://tech.komugino.me/posts/first_post/</link>
-      <pubDate>Sun, 23 Jul 2023 04:59:27 +0900</pubDate>
-      
-      <guid>https://tech.komugino.me/posts/first_post/</guid>
-      <description>皆さん初めまして。このブログはどこかの中学生が書く技術ブログです。早速ですが簡単に自己紹介をしておきましょう。
-誰？ 詳しいことは本ブログの方を参照して欲しいのですが、アメリカに住んでいる中学生です。読書やピアノ、プログラミングが趣味で、割と多趣味な方なんじゃないかなと自負しています。
-元々本ブログの方（komugikotan.hatenablog.com）には日常の出来事を投稿していたのですが、最近よく思うのが技術系の記事を本ブログでは投稿しずらいんですよね。今まで日常一本でやってきたから。そこで技術ブログを作ろうと思い立ったわけですが、中々面倒くさくて作れず。そのまま何か月かたってしまいました。
-しかし先日独自ドメインを取ったことをきっかけに火が付き、やっと技術ブログを作ることができました。
-どんな内容？ 基本的にはプログラミングやOS、ソフトウェア等の豆知識、使い方、小技等を紹介していきたいなと思っています。ちなみに最初の記事のネタはもう決まっています（Minecraft Note Block Studioについての記事です）
-そんなこんなで、、、、 そんなこんなで、今日から技術ブログの方もよろしくお願いします。
-Thanks to Github, Namecheap, Hugo, and PaperMod</description>
     </item>
     
   </channel>

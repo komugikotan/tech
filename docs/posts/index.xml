@@ -11,7 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 04:59:27 +0900</lastBuildDate><atom:link href="https://tech.komugino.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 04:07:32 +0900</lastBuildDate><atom:link href="https://tech.komugino.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Note Block Studioで10 ticks以上にできない場合の対処法</title>
+      <link>https://tech.komugino.me/posts/mc_note_block_studio_fast/</link>
+      <pubDate>Mon, 24 Jul 2023 04:07:32 +0900</pubDate>
+      
+      <guid>https://tech.komugino.me/posts/mc_note_block_studio_fast/</guid>
+      <description>地味に最初の記事ですね。今回は、Minecraft Note Block Studioで曲のtickを10 ticks以上にできない場合の対処法を紹介します。備忘録です。
+環境 まず環境を合わせてください。バージョンは3.10.0です。
+どんな内容？ テンポが速い曲だと最大値である10 ticks per secondでは速度が足りないことがあります。そういう場合は、音を全部選択して圧縮することで一音の長さを半分にすることができます。
+やり方を以下に示します。まず最初に、全ての音符ブロックをCtrl+Aを使用して選択してください。
+その次に、Editタブを開いてCompress selectionをクリックしてください。これにより音符すべてが圧縮されます。
+10 ticksの曲を一回圧縮した場合、速さが二倍になるので実質20 ticksと同じ聞え方になります。ただ、速さ的に無理がある場合はこの方法を使うと音符ブロックがいくつか消えたりすることがありますのでご注意ください。
+また、もう一回圧縮するとさらに早くすることもできます。ただ圧縮をしすぎるといくつかの音ブロックが消えるかもしれません。
+まとめ この備忘録は速い曲を音ブロック化するときはほぼ必須になると思います。
+一応言っておきますが、音ブロックをschematicとして出力する場合はマイクラの仕様上この操作をしないと元のスピードを再現できません。しかし、データパックとして出力する場合はこの限りではありません。データパックとして利用できる場合は元のticksのままデータパックとして出力して利用することをお勧めします。</description>
+    </item>
+    
     <item>
       <title>初めまして。</title>
       <link>https://tech.komugino.me/posts/first_post/</link>
