@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://komugino.me/categories/</loc>
+    <lastmod>2023-07-23T04:59:27+09:00</lastmod>
+  </url><url>
+    <loc>https://komugino.me/</loc>
+    <lastmod>2023-07-23T04:59:27+09:00</lastmod>
+  </url><url>
+    <loc>https://komugino.me/posts/</loc>
+    <lastmod>2023-07-23T04:59:27+09:00</lastmod>
+  </url><url>
+    <loc>https://komugino.me/categories/%E4%BD%95%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E8%A8%98%E4%BA%8B/</loc>
+    <lastmod>2023-07-23T04:59:27+09:00</lastmod>
+  </url><url>
+    <loc>https://komugino.me/posts/first_post/</loc>
+    <lastmod>2023-07-23T04:59:27+09:00</lastmod>
+  </url><url>
+    <loc>https://komugino.me/tags/</loc>
+  </url>
+</urlset>

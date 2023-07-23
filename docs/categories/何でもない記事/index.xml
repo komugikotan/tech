@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>何でもない記事 on Komugi no tech blog</title>
+    <link>https://komugino.me/categories/%E4%BD%95%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E8%A8%98%E4%BA%8B/</link>
+    <description>Recent content in 何でもない記事 on Komugi no tech blog</description>
+    <image>
+      <title>Komugi no tech blog</title>
+      <url>https://komugino.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://komugino.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jul 2023 04:59:27 +0900</lastBuildDate><atom:link href="https://komugino.me/categories/%E4%BD%95%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84%E8%A8%98%E4%BA%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初めまして。</title>
+      <link>https://komugino.me/posts/first_post/</link>
+      <pubDate>Sun, 23 Jul 2023 04:59:27 +0900</pubDate>
+      
+      <guid>https://komugino.me/posts/first_post/</guid>
+      <description>皆さん初めまして。このブログはどこかの中学生が書く技術ブログです。早速ですが簡単に自己紹介をしておきましょう。
+誰？ 詳しいことは本ブログの方を参照して欲しいのですが、アメリカに住んでいる中学生です。読書やピアノ、プログラミングが趣味で、割と多趣味な方なんじゃないかなと自負しています。
+元々本ブログの方（komugikotan.hatenablog.com）には日常の出来事を投稿していたのですが、最近よく思うのが技術系の記事を本ブログでは投稿しずらいんですよね。今まで日常一本でやってきたから。そこで技術ブログを作ろうと思い立ったわけですが、中々面倒くさくて作れず。そのまま何か月かたってしまいました。
+しかし先日独自ドメインを取ったことをきっかけに火が付き、やっと技術ブログを作ることができました。
+どんな内容？ 基本的にはプログラミングやOS、ソフトウェア等の豆知識、使い方、小技等を紹介していきたいなと思っています。ちなみに最初の記事のネタはもう決まっています（Minecraft Note Block Studioについての記事です）
+そんなこんなで、、、、 そんなこんなで、今日から技術ブログの方もよろしくお願いします。
+Thanks to Github, Namecheap, Hugo, and PaperMod</description>
+    </item>
+    
+  </channel>
+</rss>

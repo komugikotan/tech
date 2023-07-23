@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://komugino.me/sitemap.xml
